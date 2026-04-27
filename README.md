@@ -30,7 +30,7 @@ LeetCode: https://leetcode.com/u/bewaffnete
 ### 🛠 Tech Stack
 
 **Core**  
-- **Python** • Pandas • Polars • Scikit-learn  
+- **Python • Pandas • Polars • Scikit-learn** 
 - **XGBoost • CatBoost • LightGBM**  
 - **Optuna • SMOTE • SHAP**
 
