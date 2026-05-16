@@ -45,8 +45,8 @@ LeetCode: https://leetcode.com/u/bewaffnete
 - **FastAPI**
 
 **Data & Infrastructure**  
-- PostgreSQL 
-- GitHub Actions (CI/CD)
-- Neo4j
+- **PostgreSQL**
+- **GitHub Actions (CI/CD)**
+- **Neo4j**
 ---
 
