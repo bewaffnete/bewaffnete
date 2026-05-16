@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hi, I'm bewaffnete 👋</h1>
   <h3>Aspiring ML Engineer & MLOps Specialist</h3>
 
   <p>
@@ -34,19 +33,20 @@ LeetCode: https://leetcode.com/u/bewaffnete
 **Core**  
 - **Python • Pandas • Polars • Scikit-learn** 
 - **XGBoost • CatBoost • LightGBM**  
-- **Optuna • SMOTE • SHAP**
+- **Optuna • SHAP**
+- **LangChain • LangGraph**
 
 **MLOps & Production**  
 - **Docker & docker-compose**  
 - **Prefect 2**   
 - **MLflow** 
 - **Evidently**  
-- **Celery + RabbitMQ**  
+- **Celery • RabbitMQ**  
 - **FastAPI**
 
 **Data & Infrastructure**  
 - PostgreSQL 
 - GitHub Actions (CI/CD)
-
+- Neo4j
 ---
 
