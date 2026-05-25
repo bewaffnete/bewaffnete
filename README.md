@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Aspiring ML Engineer & MLOps Specialist</h3>
+  <h3>ML Engineer & MLOps Specialist</h3>
 
   <p>
     Building production-ready Machine Learning systems — from interactive AutoML tools to real-time fraud detection services and robust MLOps pipelines.
